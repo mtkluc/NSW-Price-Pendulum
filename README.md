@@ -1,4 +1,4 @@
-# Project 3 - Data Engineering  
+# Project 3 - Data Engineering Class Project
 by Group3 : Natasha Elliott, Michael Luc, Rajani Muttumula, Lishi Cai
 
 Libraries Used:
@@ -6,8 +6,7 @@ Pola.rs, Flask and glob
 
 ## 1. Scope and purpose of the project
 
-**This project aims to create an ETL pipeline to extract, transform, and load property sales data from the NSW Property 
-Sales Information platform into a SQL database optimized for querying.** 
+As part of our classwork:
 
 Our goal of this project was to utilise an ETL pipeline to review property sales data from the New South Wales Valuer General's website
 to have a better understanding of price change in different localities of NSW. We utilised the bulk annual data in .dat format, extracted
