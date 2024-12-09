@@ -1,0 +1,26 @@
+<form action="/results" method="post">
+    <label for="property_type">Property Type:</label>
+    <select name="property_type" id="property_type">
+        <option value="houses">Houses</option>
+        <option value="units">Units</option>
+    </select>
+    <label for="start_year">Start Year:</label>
+    <select name="start_year" id="start_year">
+        {% for year in years %}
+        <option value="{{ year }}">{{ year }}</option>
+        {% endfor %}
+    </select>
+    <label for="end_year">End Year:</label>
+    <select name="end_year" id="end_year">
+        {% for year in years %}
+        <option value="{{ year }}">{{ year }}</option>
+        {% endfor %}
+    </select>
+    <label for="locality">Locality:</label>
+    <select name="locality" id="locality">
+        {% for loc in localities %}
+        <option value="{{ loc }}">{{ loc }}</option>
+        {% endfor %}
+    </select>
+    <button type="submit">Submit</button>
+</form>
