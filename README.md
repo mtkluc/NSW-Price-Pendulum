@@ -49,7 +49,7 @@ it was easier to use a NoSQL database to ensure all the data was captured.
 
 The original data was obtained from the NSW Valuer General's website and the data is accessible under the Creative Commons BY-NC-ND 4.0.
 This work cannot be used for commercial purposes, and although transformation of the data in terms of cleaning/editing has occurred no material change
-has occurred to the underlying data. 
+has occurred to the underlying data. NSW does not endorse the changes or our use of the data.
 
 Otherwise, given the data includes addresses of homes that people own and live in, we have separated this from our main table and removed it from results for privacy.
 
