@@ -27,6 +27,15 @@ The Flask app requires you to run app.py and ensure the file structure remains t
 It is then accessible locally. You should select the start year and finish year, and select the area locality for comparison. 
 This will return a page showing the change in price per sq. m.
 
+Files required for the Flask App: 
+
+File structure:
+app.py
+Data/house_data.csv
+Data/units_data.csv
+templates/index.html
+templates/results.html
+
 ![Proj3 sshot1](https://github.com/user-attachments/assets/de68049f-30ad-4a60-b595-88dba9029d1b)
 ![Screenshot 2024-12-09 210709](https://github.com/user-attachments/assets/1187530b-2242-42a6-be5d-23f770a0967c)
 
