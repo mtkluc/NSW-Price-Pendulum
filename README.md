@@ -1,5 +1,6 @@
-# TREND: Tracking Real Estate and Neighborhood Data (NSW) - Data Analytics Bootcamp - Data Engineering Project
+# TREND: Tracking Real Estate and Neighborhood Data (NSW)
 by Group3 : Natasha Elliott, Michael Luc, Rajani Muttumula, Lishi Cai
+For the Monash edX Data Analytics Bootcamp - Data Engineering Project
 
 Libraries Used:
 Polars, Flask and glob
