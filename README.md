@@ -24,6 +24,10 @@ We have provided .csv files for each step, which can be downloaded and uploaded 
 The Flask app requires you to run app.py and ensure the file structure remains the same. 
 It is then accessible locally.
 
+![Proj3 sshot1](https://github.com/user-attachments/assets/d26a40a5-eea2-48b0-a4cc-10b339c0d9f1)
+![Screenshot 2024-12-09 210709](https://github.com/user-attachments/assets/40d1f023-9e38-496e-a0c9-6bfa3b62a98a)
+
+
 ## 3. Documentation of the database used and why (e.g. benefits of SQL or NoSQL for this project)
 
 Given the size and complexity of our database, as well as incomplete entries on the NSW Valuer General's website/.dat files
