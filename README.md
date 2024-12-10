@@ -28,10 +28,11 @@ This will return a page showing the change in price per sq. m.
 ![Proj3 sshot1](https://github.com/user-attachments/assets/de68049f-30ad-4a60-b595-88dba9029d1b)
 ![Screenshot 2024-12-09 210709](https://github.com/user-attachments/assets/1187530b-2242-42a6-be5d-23f770a0967c)
 
-## 3. Documentation of the database used and why (e.g. benefits of SQL or NoSQL for this project)
+## 3. Documentation of the database used
 
-Given the size and complexity of our database, as well as incomplete entries on the NSW Valuer General's website/.dat files
-it was easier to use a NoSQL database to ensure all the data was captured. 
+Given the size and complexity of our database, as well as incomplete entries on the NSW Valuer General's website/.dat files it was easier to use a SQL database to ensure all the data had been cleaned properly.
+As a group we were more familiar with SQL, and used postgreSQL for this purpose. 
+Below are examples of the tables created from the original dataset.
 
 ![image](https://github.com/user-attachments/assets/e042a851-481e-4315-9c68-c4a6218c1b4a)
 ![image](https://github.com/user-attachments/assets/f0117cd6-7fcc-4f45-bc63-2875f3f5b43a)
