@@ -8,9 +8,9 @@ Pola.rs, Flask and glob
 
 As part of our classwork:
 
-Our goal of this project was to utilise an ETL pipeline to review property sales data from the New South Wales Valuer General's website
-to have a better understanding of price change in different localities of NSW. We utilised the bulk annual data in .dat format, extracted
-the information, cleaned and manipulated the data by ensuring a unique ID key (uniqueSaleKey) and adding in the price per square meter metric.
+Our goal of this project was to utilise an ETL pipeline to review property sales data from the New South Wales Valuer General's website to have a better understanding of price change in different localities of NSW. 
+
+We utilised the bulk annual data in .dat format, extracted the information, cleaned and manipulated the data by ensuring a unique ID key (uniqueSaleKey) and adding in the price per square meter metric.
 Our database is divided into units and houses given these represent different markets, and may have differing value changes.
 We grouped the information for the purpose of a Flask application so that users may query the price change per area over the year.
 
