@@ -2,7 +2,7 @@
 by Group3 : Natasha Elliott, Michael Luc, Rajani Muttumula, Lishi Cai
 
 Libraries Used:
-Pola.rs, Flask and glob
+Polars, Flask and glob
 
 ## 1. Scope and purpose of the project
 
