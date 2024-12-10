@@ -18,10 +18,6 @@ Some key considerations with our dataset; given the size of the dataset (~800,00
 of our analysis. This may skew some results for areas with small sales volumes, but these areas are very hard to accurately guage regardless.
 As such using the Flask tool is most appropriate for high volume sales areas over the last three years over the smaller regional towns.
 
-Ethical considerations 
-include ensuring data privacy by anonymizing sensitive information, adhering to the platform’s terms 
-of use, and documenting the data source transparently to promote responsible data usage. This work is covered by the Creative Commons.
-
 ## 2. Instructions on how to use and interact with the project
 
 We have provided .csv files for each step, which can be downloaded and uploaded into pandas or pola.rs for further interaction.
@@ -40,22 +36,24 @@ it was easier to use a NoSQL database to ensure all the data was captured.
 
 ## 5. Summarising efforts for ethical considerations made in the project
 
-The original data was obtained from the NSW Valuer General's website and the data is accessible under the Creative Commons BY-NC-ND 4.0.
-This work cannot be used for commercial purposes, and although transformation of the data in terms of cleaning/editing has occurred no material change
-has occurred to the underlying data. NSW does not endorse the changes or our use of the data.
 
-Otherwise, given the data includes addresses of homes that people own and live in, we have separated this from our main table and removed it from results for privacy.
+This project utilized data from the NSW Valuer General bulk property data set, licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license.
+Copyright © 2024 NSW Valuer General. All rights reserved. 
 
 For more information see:
 https://valuation.property.nsw.gov.au/embed/propertySalesInformation
-https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en#ref-exception-or-limitation
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+We ensured that our project utilised publically available data. As part of this dataset, home addresses are included and we have taken steps to remove this information. 
+Our project abides by the Creative Commons Licence as this remains a non commercial project, where only data clean up and very limited transformation (price per sq m) has been calculated to allow for comparison
+metrics. This project has been completed as part of an education project as part of the Monash edX Data Visualisation course.
 
 ## 6. References for the data source(s)
 
 https://valuation.property.nsw.gov.au/embed/propertySalesInformation
 
 ## 7. References for any code used that is not your own
-Code designed and developed by team, assisted by ChatGPT for Pola.rs
+Code designed and developed by team, assisted by ChatGPT
 
 
 
