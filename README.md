@@ -1,4 +1,4 @@
-# Project 3 - Data Engineering Class Project
+# TREND: Tracking Real Estate and Neighborhood Data (NSW) - Data Analytics Bootcamp - Data Engineering Project
 by Group3 : Natasha Elliott, Michael Luc, Rajani Muttumula, Lishi Cai
 
 Libraries Used:
