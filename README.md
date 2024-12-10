@@ -35,13 +35,7 @@ it was easier to use a NoSQL database to ensure all the data was captured.
 
 ## 4. ETL workflow with diagrams or ERD
 
-
-
-
-
-
-
-
+![ELT FLOWCHART](https://github.com/user-attachments/assets/3886d70c-55d7-4e68-a60f-216dfd980dd2)
 
 
 ## 5. Summarising efforts for ethical considerations made in the project
