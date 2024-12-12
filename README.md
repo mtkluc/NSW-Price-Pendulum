@@ -36,11 +36,11 @@ Files required for the Flask App:
 
 
 File structure:
-app.py
-Data/house_data.csv
-Data/units_data.csv
-templates/index.html
-templates/results.html
+<br> app.py </br>
+<br> Data/house_data.csv </br>
+<br> Data/units_data.csv </br>
+<br> templates/index.html </br>
+<br> templates/results.html </br>
 
 
 ![Proj3 sshot1](https://github.com/user-attachments/assets/de68049f-30ad-4a60-b595-88dba9029d1b)
